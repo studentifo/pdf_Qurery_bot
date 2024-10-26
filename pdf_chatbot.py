@@ -5,7 +5,7 @@ import time
 
 # Set Hugging Face API Token and Endpoint
 API_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
-API_TOKEN = "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"  # Replace with your token
+API_TOKEN = "PLEASE ENTER YOUR API KEY"  # Replace with your token
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
 
 # Function to extract text from PDF
