@@ -1,2 +1,2 @@
 # pdf_Qurery_bot
-![Screenshot (454)](https://github.com/user-attachments/assets/830b2271-f18c-484c-9266-c1dfb6421b19)
+![Screenshot (454)](https://github.com/user-attachments/assets/f79cace6-dfe8-485a-b4e7-6a5907fa0df2)
